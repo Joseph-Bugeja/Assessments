@@ -5674,7 +5674,7 @@ GameObject:
   - component: {fileID: 731334098}
   - component: {fileID: 731334097}
   m_Layer: 0
-  m_Name: Camera
+  m_Name: TV live feed Camera
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -5739,12 +5739,12 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 731334096}
   m_LocalRotation: {x: 0.034221794, y: 0.8627894, z: -0.05271191, w: 0.5016422}
-  m_LocalPosition: {x: 116.58, y: 103.05, z: 66.67}
+  m_LocalPosition: {x: 7.706093, y: 0.95425415, z: -0.22959137}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
-  m_Father: {fileID: 0}
-  m_RootOrder: 11
+  m_Father: {fileID: 1804136134}
+  m_RootOrder: 2
   m_LocalEulerAnglesHint: {x: 7.198, y: 119.673, z: 0.356}
 --- !u!1 &747016602
 GameObject:
@@ -29045,6 +29045,7 @@ Transform:
   m_Children:
   - {fileID: 946929161}
   - {fileID: 1304883460}
+  - {fileID: 731334099}
   m_Father: {fileID: 1085150359}
   m_RootOrder: 0
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
